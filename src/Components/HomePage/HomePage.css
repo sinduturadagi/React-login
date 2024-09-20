@@ -1,0 +1,12 @@
+.home-wrapper {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(30px);
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
